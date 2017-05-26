@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "name": "Nandos",
+    "image": "MediaLibrary/MechantsCardPhotos/nandos.jpg",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  },
+  {
+    "index": 1,
+    "name": "Steers",
+    "image": "MediaLibrary/MechantsCardPhotos/steers.jpg",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  },
+  {
+    "index": 2,
+    "name": "McDonalds",
+    "image": "MediaLibrary/MechantsCardPhotos/mcdonalds.jpeg",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  },
+  {
+    "index": 3,
+    "name": "KFC",
+    "image": "MediaLibrary/MechantsCardPhotos/kfc.png",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  },
+  {
+    "index": 4,
+    "name": "ANAT",
+    "image": "MediaLibrary/MechantsCardPhotos/anat.jpg",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  },
+  {
+    "index": 5,
+    "name": "Ocean Busket",
+    "image": "MediaLibrary/MechantsCardPhotos/oceanbasket.jpg",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  },
+  {
+    "index": 6,
+    "name": "Debonairs",
+    "image": "MediaLibrary/MechantsCardPhotos/debonairs.jpeg",
+    "date": "Sun Aug 14 1994 03:27:03 GMT-0700 (PDT)",
+    "longText": "Id aliqua ullamco ullamco commodo ipsum Lorem. Amet ut eu voluptate cillum occaecat Lorem et cillum excepteur ullamco mollit enim. Ea nostrud dolore culpa nulla nostrud ex voluptate anim laborum esse commodo sunt. Velit laboris pariatur labore dolore occaecat enim fugiat qui. Sit in eu ex aute minim deserunt qui consectetur laboris nostrud ad quis qui id.\r\n",
+    "phone": "(817) 426-2901"
+  }
+]
