@@ -22,6 +22,7 @@
 
 	<template>
 		<iron-ajax url="../data/test.json" last-response="{{mechants}}" auto></iron-ajax>
+		<div>
 		<app-header condenses fixed effects="resize-title blend-background waterfall">
 			<app-toolbar>
 				<!--<paper-icon-button icon="menu" drawer-toggle></paper-icon-button>-->
@@ -38,7 +39,8 @@
 				</h1>
 			</app-toolbar>
 		</app-header>
-		<div style=" padding-top: 450px; ">
+		</div>
+		<div style=" padding-top: 639px; ">
 
 			<template is='dom-repeat' items='{{mechants}}'>
 				<div style=" padding-bottom: 16px; ">					
